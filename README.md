@@ -1,2 +1,6 @@
-# tindog
-A simple web page built with HMTL &amp; CSS following the Udemy course taught by Angela Yu. The page is deployed here: https://faridamoussaeff.github.io/tindog/
+# Tindog
+A simple single page built with HMTL5 and CSS,
+accessible([here](https://faridamoussaeff.github.io/tindog/)])
+
+## Final Product
+[The](https://www.canva.com/design/DAFEMNWoG88/SSRBWfCtH-6hfFNJiLwOzw/view?utm_content=DAFEMNWoG88&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
