@@ -5,4 +5,4 @@ A single page website built with HMTL5 and CSS, accessible
 
 ## Final Product
 
-[Final Product](https://github.com/faridamoussaeff/tindog/blob/main/docs/Tindog.gif)
+!["Final Product"](https://github.com/faridamoussaeff/tindog/blob/main/docs/Tindog.gif)
