@@ -1,7 +1,7 @@
 # Tindog
 
-A simple single page built with HMTL5 and CSS,
-accessible[here](https://faridamoussaeff.github.io/tindog/)
+A simple single page built with HMTL5 and CSS, accessible
+[here](https://faridamoussaeff.github.io/tindog/)
 
 ## Final Product
 
